@@ -1,0 +1,2 @@
+Proporciones de clases: {'phishing': 0.47875, 'legitimate': 0.52125}
+Grado de desbalanceo: 1.0887728459530026
