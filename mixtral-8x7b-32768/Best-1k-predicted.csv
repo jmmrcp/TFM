@@ -1,0 +1,21 @@
+,predicted
+0,legitimate
+1,"The last email belongs to the class: legitimate.
+
+The email contains a series of discussions and requests related to Weka, a popular data mining tool in machine learning. The email includes several different threads of conversation, each discussing a specific topic or issue related to Weka. The participants in the conversation are seeking help,"
+2,"The last email belongs to the class 'legitimate'.
+
+The email contains a detailed error message related to a segmentation fault in a specific software tool (tdb transaction start) and includes a backtrace, which are both indicative of a technical issue being reported or discussed. The email also includes a signature with"
+3,legitimate
+4,"The last email belongs to the class: legitimate.
+
+The email appears to be a continuation of a discussion about licensing concerns, with references to specific individuals and organizations. The content of the email is coherent and relevant to the discussion, and it does not contain any urgent requests for personal information or suspicious links"
+5,phishing
+6,"The last email belongs to the class of phishing.
+
+The email appears to be a scam as it claims to be from the wife of the late Palestinian leader Yasser Arafat, stating that a large sum of money was left by her husband in a bank in London. The email then asks for"
+7,legitimate
+8,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit the recipient's assistance in transferring a large sum of money, supposedly owned by the sender who claims to be a political refugee from Sierra Leone. However, the email contains numerous red flags associated with ph"
+9,legitimate

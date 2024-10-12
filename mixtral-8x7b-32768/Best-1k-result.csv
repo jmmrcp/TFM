@@ -1,0 +1,11 @@
+predicted,targets
+legitimate,phishing
+legitimate,legitimate
+legitimate,legitimate
+legitimate,legitimate
+legitimate,legitimate
+phishing,phishing
+legitimate,phishing
+legitimate,phishing
+legitimate,phishing
+legitimate,legitimate
