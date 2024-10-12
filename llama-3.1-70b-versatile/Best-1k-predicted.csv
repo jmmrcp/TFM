@@ -1,7 +1,7 @@
 ,predicted
 0,legitimate
 1,phishing
-2,legitimate
+2,phishing
 3,legitimate
 4,phishing
 5,Phishing
@@ -9,3 +9,8 @@
 7,legitimate
 8,legitimate
 9,legitimate
+10,legitimate
+11,Phishing
+12,legitimate
+13,legitimate
+14,phishing
