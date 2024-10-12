@@ -1,21 +1,632 @@
 ,predicted
-0,legitimate
-1,"The last email belongs to the class: legitimate.
-
-The email contains a series of discussions and requests related to Weka, a popular data mining tool in machine learning. The email includes several different threads of conversation, each discussing a specific topic or issue related to Weka. The participants in the conversation are seeking help,"
-2,"The last email belongs to the class 'legitimate'.
-
-The email contains a detailed error message related to a segmentation fault in a specific software tool (tdb transaction start) and includes a backtrace, which are both indicative of a technical issue being reported or discussed. The email also includes a signature with"
-3,legitimate
+0,"The last email belongs to the class of phishing. The email is soliciting for personal banking information under the guise of a desperate inheritance situation. The sender is asking the recipient to provide their bank account information to receive a large sum of money, and offering a percentage of the money in return. This is a"
+1,"The last email belongs to the phishing class. The email is an attempt to fraudulently obtain sensitive personal information by posing as a legitimate organization, in this case, a bank. The email contains numerous spelling and grammar errors, and it asks the recipient to provide personal information to release abandoned funds, which"
+2,legitimate
+3,"Phishing. The email contains suspicious language and a suspicious link, attempting to trick the recipient into providing sensitive information or performing an action that could compromise their security."
 4,"The last email belongs to the class: legitimate.
 
-The email appears to be a continuation of a discussion about licensing concerns, with references to specific individuals and organizations. The content of the email is coherent and relevant to the discussion, and it does not contain any urgent requests for personal information or suspicious links"
-5,phishing
-6,"The last email belongs to the class of phishing.
+The email appears to be a technical support conversation about an issue with the Delicious API, with no indicators of phishing or fraudulent activity."
+5,legitimate
+6,phishing
+7,"The last email belongs to the class of phishing.
 
-The email appears to be a scam as it claims to be from the wife of the late Palestinian leader Yasser Arafat, stating that a large sum of money was left by her husband in a bank in London. The email then asks for"
-7,legitimate
-8,"The last email belongs to the class: phishing.
+The email contains a request for personal information, specifically an account ID and a negotiable amount, under the guise of a pre-approval for refinancing. The inclusion of a link for ""database deletion"" is also suspicious and may be"
+8,"The email belongs to the class 'phishing'.
 
-The email is an attempt to solicit the recipient's assistance in transferring a large sum of money, supposedly owned by the sender who claims to be a political refugee from Sierra Leone. However, the email contains numerous red flags associated with ph"
-9,legitimate
+The reasons for this classification are:
+1. The email starts with a generic greeting, ""We tried to contact you earlier"", instead of using the recipient's name.
+2. The email mentions an ""preapproval process"" for """
+9,"Phishing. The email seems to be trying to get the recipient to click on a link, which could lead to a phishing website. The use of urgent and spyware in the subject line are often used in phishing emails to try and trick the recipient into clicking on the link."
+10,"The last email is a phishing email. The email is an attempt to trick the recipient into providing their personal information, which can then be used for fraudulent activities. The email contains a number of red flags that are common in phishing emails, such as the claim that the recipient has inherited a large sum of money from"
+11,legitimate
+12,phishing
+13,"phishing
+
+The email contains a sense of urgency and requests sensitive information (related to the bank account and checks), which are common characteristics of phishing emails. Additionally, the email contains grammatical errors and a lack of professionalism, which can also be indicators of phishing attempts."
+14,"The last email belongs to the class of phishing.
+
+The email contains numerous red flags associated with phishing attempts, such as:
+
+1. Excessive use of capitalization and special characters in the subject line and body of the email.
+2. Lack of personalization and use of generic"
+15,legitimate
+16,"The last email belongs to the class: legitimate.
+
+The email appears to be promoting ShareBuilder, a legitimate brokerage firm, and provides information about their services and fees. It also includes instructions on how to unsubscribe from their mailing list, which is a common practice for legitimate businesses. While the email does contain"
+17,legitimate
+18,phishing
+19,legitimate
+20,"Phishing. The email contains a suspicious link and uses poor grammar, which are common characteristics of phishing emails. It is likely an attempt to trick the recipient into providing personal information or downloading malware."
+21,"The last email belongs to the class of phishing. The email is an attempt to solicit the recipient's personal and banking information by posing as a regional manager of a bank. The email contains several red flags associated with phishing attempts, such as the promise of a large sum of money, the urgent need for"
+22,legitimate
+23,"The last email belongs to the class: legitimate.
+
+The email appears to be an automated message from a movie rental service, providing an update on the status of a returned DVD. While it is not a phishing email, it is worth noting that the email could potentially be improved by including clear branding and a more"
+24,legitimate
+25,"The last email belongs to the class: legitimate.
+
+The email appears to be a newsletter or report about a small cap stock, Western Sierra Mining Inc., that the author is recommending as a good investment. The email includes information about the company's business model, recent news, and industry trends, as"
+26,legitimate
+27,legitimate
+28,"Phishing
+
+The email is trying to trick the recipient into clicking a link that likely leads to a fraudulent or malicious website. The sender is pretending to be a reputable pharmacy network, but there are several red flags that indicate this is a phishing attempt:
+
+1. The email is not"
+29,"The last email belongs to the class of phishing. The email contains several red flags that are common in phishing emails, such as excessive use of punctuation and capitalization, poor grammar and spelling, and a sense of urgency to click on a link. The link provided in the email also appears to be"
+30,"The last email belongs to the class: phishing.
+
+The email is trying to lure the recipient into clicking a link to fix their bad credit, which is a common phishing tactic. The email also contains poor grammar and spelling, and uses a generic greeting, all of which are red"
+31,"The last email belongs to the class: phishing.
+
+The email is a classic example of a phishing scam. The sender is trying to trick the recipient into providing their personal banking information by posing as a foreign bank official. The recipient is offered a share of unclaimed funds in exchange for their cooperation"
+32,"The email belongs to the class 'legitimate'.
+
+The email contains a detailed confirmation of a new subscription to a service called Paperloop. It includes a user ID, password, name, title, company, address, telephone number, email address, subscription term, and transaction ID. This level of detail and personal"
+33,legitimate
+34,"The last email belongs to the class: legitimate.
+
+The email appears to be a newsletter from a stock market advisory service, providing information about a company called Executive Hospitality Corp (EHPC), which has recently acquired another company called Executive Restaurant Group. The email includes detailed information about the acquisition"
+35,phishing
+36,phishing
+37,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit the recipient's personal and financial information by posing as a wealthy individual seeking assistance in transferring a large sum of money. The email contains several red flags associated with phishing attempts, such as poor grammar and"
+38,"The last email belongs to the class 'legitimate'.
+
+The email contains a commit message for a revision in the SAMBA 4.0 branch, which includes code changes to the SWAT (Samba Web Administration Tool) application. The content of the email is purely technical and does not contain any sol"
+39,"The last email belongs to the class: phishing.
+
+The email is a classic example of a pyramid scheme, which is a type of scam where participants are tricked into paying money upfront with the promise of receiving more money in return as new participants join the scheme. Pyramid schemes are illegal"
+40,phishing
+41,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate monthly briefing from Cambridge Energy Research Associates (CERA) regarding natural gas prices and market fundamentals. The email contains a title, a brief summary of the report, and several hyperlinks to CERA's"
+42,legitimate
+43,legitimate
+44,"The last email belongs to the class: legitimate.
+
+The email appears to be an advertisement for an energy industry conference called DistribuTECH 2002. It provides details about the conference, such as the dates, location, schedule, speakers, and registration information. The email appears to be from"
+45,"The last email is most likely a phishing email. The message contains numerous spelling and grammar errors, and it uses excessive punctuation, which are common characteristics of phishing emails. The email also contains a suspicious link that the user is encouraged to click, which is a common phishing tactic used to steal"
+46,legitimate
+47,"The last email belongs to the class: legitimate.
+
+The email seems to be a news update from Channel 4 News, containing information about various topics such as a interview with Hamid Karzai, a bomb attack in Afghanistan, the Scottish elections, a court case in the UK, and wildfires in California"
+48,"The last email belongs to the class 'legitimate'.
+
+The email appears to be a promotional email listing various products available at discounted prices. It does not contain any urgent requests for personal information or login credentials, which are common characteristics of phishing emails. The inclusion of an option to unsubscribe from future"
+49,phishing
+50,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate message from USAA, a financial services company, reminding its members to update their device operating systems in order to maintain access to the USAA website due to an internet upgrade for increased online security. The email contains branding"
+51,"The last email is a phishing email. The email is an advance-fee scam, a type of fraud where the scammer asks the victim to pay a small amount of money upfront in order to receive a larger sum later. The email contains several red flags associated with phishing emails, such as poor gram"
+52,phishing
+53,legitimate
+54,legitimate
+55,legitimate
+56,legitimate
+57,legitimate
+58,"The last email belongs to the class: legitimate.
+
+The email appears to be a list of top videos and stories from CNN's website, and it contains a valid CNN logo and links to actual CNN stories. While it does contain some sensational headlines, this is not uncommon in legitimate marketing emails."
+59,"The last email belongs to the class: legitimate.
+
+The email appears to be a conference call notification from CERA (Cambridge Energy Research Associates) to its clients who subscribe to the CERA Mexico Gas and Power and Latin America Upstream Retainer Advisory Services. The email provides details about"
+60,"The email belongs to the class 'legitimate'.
+
+The email appears to be a notification regarding the creation of an account for Christopher Fradas at the Department of Energy's gas and power pages. The sender, Leonardo Pacheco, provides his contact information and offers to answer any questions. While the email"
+61,legitimate
+62,legitimate
+63,"The last email is a phishing email. Here are some reasons why:
+
+1. The email claims that the recipient has won a large sum of money in a lottery, which is a common tactic used by phishers to trick people into giving away their personal information.
+2. The email asks"
+64,"Based on the content of the email, it appears to be a legitimate work-related email. The email discusses work assignments, housing arrangements, work permits, tax obligations, and payroll and benefits for employees. There are no requests for sensitive personal information or suspicious links, which are common characteristics of phishing emails"
+65,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate political news update from CNN, containing multiple stories about current political events and issues. There are no indications of any malicious intent or phishing attempts in the email."
+66,"The last email belongs to the phishing class. The email is pretending to be from Carlos Savimbi, a deceased Angolan political leader, and his assistant is asking for help in transferring money from the uncle's Swiss bank account. The email contains several red flags associated with phishing emails, such as"
+67,"The last email belongs to the class of phishing. The email is an advance-fee scam, where the scammer offers a large sum of money in exchange for a smaller upfront fee. The email tries to create a sense of urgency and confidentiality, and asks for personal information from the recipient."
+68,"The last email belongs to the class of phishing. The email contains numerous red flags that are common in phishing emails, such as poor grammar and spelling, urgent tone, request for personal information, and a sense of urgency to provide that information. Additionally, the email claims to be from a regional supervisor"
+69,legitimate
+70,legitimate
+71,legitimate
+72,"The last email belongs to the class: legitimate.
+
+The text of the email is somewhat difficult to understand, but it does not contain any typical signs of phishing attempts, such as requests for sensitive personal information, urgent calls to action, or suspicious links. Instead, it appears to be a fragment of a conversation"
+73,legitimate
+74,"The last email belongs to the class of phishing.
+
+The email is trying to lure the recipient into clicking a link to receive a ""free information package"" about an ""exciting high growth industry"" and ""earn income 24/7"" with a ""fully automated shopping mall platform."" However"
+75,The last email belongs to the phishing class. The email is trying to trick the recipient into believing that they are in possession of unclaimed funds and asking them to provide their personal banking details to receive the money. This is a common phishing tactic used to steal people's personal and financial information.
+76,phishing
+77,"The last email is a phishing email. There are several red flags that indicate this, such as:
+
+1. The email claims that the recipient has won a large sum of money in a lottery that they never entered.
+2. The email asks the recipient to keep the award secret and not to tell anyone"
+78,legitimate
+79,legitimate
+80,"legitimate
+
+The email appears to be a legitimate webcast alert published by SearchSoftwareQuality.com, a website that provides information and resources for software quality professionals. The email contains detailed information about a webcast on application performance management, including the speaker's credentials, the webcast's content, and the"
+81,"The last email belongs to the class: legitimate.
+
+The email describes a business opportunity involving a mail order marketing plan for selling recipes. It provides detailed instructions on how to implement the plan, as well as the costs and potential earnings. It also mentions legal aspects and income tax considerations. While the language and format"
+82,legitimate
+83,"The last email belongs to the class: phishing.
+
+The email is trying to trick the recipient into believing that they are entitled to a share of a deceased person's money, and asking for their personal information and cooperation to retrieve it. The email contains numerous spelling and grammar errors, and uses a"
+84,"The last email belongs to the class of phishing. The email is an attempt to trick the recipient into believing that they are the next of kin to a deceased person who has left a large sum of money in a bank account. The email asks the recipient to provide their personal information, such as their email address,"
+85,"The last email belongs to the class: phishing.
+
+The email is an example of a common type of phishing scam known as an ""advance-fee scam"" or ""Nigerian prince scam"". The email claims to be from a wealthy individual who needs help distributing their wealth to charity"
+86,phishing
+87,"The last email belongs to the class: legitimate.
+
+The email appears to be a call for papers (CFP) for a workshop on planning in games, which is part of the ICAPS 2007 conference. The email provides details about the workshop, including its description, relevant topics, important"
+88,legitimate
+89,phishing
+90,"The last email belongs to the class: legitimate.
+
+The email appears to be a sales offer for a CD containing a large database of US businesses, sorted by categories and Standard Industrial Classification (SIC) codes. The email provides detailed information about the product, its features, and pricing. It also includes contact"
+91,"The last email is a phishing email. It is an attempt to trick the recipient into providing their personal and banking information by posing as a representative of a bank. The email contains numerous red flags, such as poor grammar and spelling, urgent requests for action, and promises of large sums of money. Additionally"
+92,legitimate
+93,"The last email is a phishing email. The email is an advance-fee scam, where the sender promises a large sum of money in exchange for the recipient's help in transferring the money. The email contains several red flags that are common in phishing emails, such as poor grammar and spelling,"
+94,legitimate
+95,"The last email belongs to the class: phishing.
+
+The email is an attempt to trick the recipient into providing personal information, which can be used for fraudulent activities. The email claims to offer a large sum of money, but requests the recipient's full name, address, and phone numbers, supposedly to"
+96,"The last email belongs to the class of phishing. The email is trying to sell various prescription medications at low prices, which is a common tactic used by phishers to lure people into providing their personal and financial information. Additionally, the email contains numerous spelling and grammar errors, which is another red"
+97,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit sensitive personal and financial information from the recipient by posing as a legitimate organization, the African Development Bank (ADB). The email contains numerous red flags associated with phishing attempts, such as poor grammar and sp"
+98,"phishing
+
+The email appears to be an attempt to direct the recipient to a suspicious news website, which is a common tactic used in phishing emails. The URL provided is missing the ""https://"" protocol identifier, and the website name ""newsisfree"" does not inspire confidence. Additionally, the email contains"
+99,"The last email belongs to the class: legitimate.
+
+The email appears to be an official announcement for the ""6th international symposium on social communication"" that will take place in Santiago de Cuba. It provides detailed information about the event, its schedule, the topics that will be discussed, the organizing committee,"
+100,"The last email belongs to the class: phishing.
+
+The email displays several red flags that are common in phishing emails. These include:
+
+1. Unsolicited contact about a financial matter, such as refinancing a home.
+2. The use of a generic salutation, """
+101,phishing
+102,legitimate
+103,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate newsletter from CNN, containing a list of top stories and videos. There are no requests for sensitive personal information or suspicious links, which are common indicators of phishing emails. Additionally, the email includes legal disclaimers and"
+104,phishing
+105,phishing
+106,legitimate
+107,"The last email belongs to the class: phishing.
+
+The email displays several characteristics common in phishing emails such as:
+
+1. Spelling and grammar mistakes: ""namemrssuzana nuhan vaye"", ""barrjames broderickattorney"", ""attn mdceo"
+108,legitimate
+109,legitimate
+110,"The last email belongs to the class of phishing.
+
+The email is an attempt to solicit the recipient's personal and financial information by posing as a legitimate banker from a foreign bank. The email contains several red flags associated with phishing scams, such as the offer of a large sum of money"
+111,phishing
+112,phishing
+113,legitimate
+114,legitimate
+115,phishing
+116,"The last email belongs to the class: phishing.
+
+The email is a classic example of a phishing attempt. It contains a sensational story intended to trick the recipient into responding, and it asks for personal information or money. The email claims to be from a manager at the African Development Bank, but it is"
+117,"The last email belongs to the class: phishing.
+
+The email displays several characteristics common in phishing emails such as:
+
+1. Request for personal/financial information: The email asks the recipient to permit making an acquaintance in an informal manner and mentions the need for a dependable and"
+118,"The last email belongs to the class of phishing. The email is trying to trick the recipient into clicking on a link to get a free quote for a loan, regardless of their credit situation. This is a common tactic used in phishing emails to trick people into giving away their personal information. Additionally, the email"
+119,legitimate
+120,The last email belongs to the phishing class. The email contains a threat of account suspension due to spam activities and asks the recipient to confirm their account and email address within 24 hours. This is a common phishing tactic used to trick recipients into providing their personal information. The email also contains grammat
+121,"The last email belongs to the class 'legitimate'.
+
+The email contains a discussion about a machine learning workbench, Weka, and its classifiers, attributes, and parameters. It includes a list of weka classifiers, attribute selection methods, and cross-validation techniques. The email also includes a link"
+122,"The last email belongs to the class of phishing.
+
+The email is an attempt to trick the recipient into providing their personal and banking information by posing as a person in need who has access to a large sum of money. The email contains several red flags associated with phishing scams, such as poor grammar"
+123,"The last email belongs to the class of phishing.
+
+The email contains several signs of phishing, such as unsolicited contact, urgent action required, and a request for personal information. The email asks the recipient to take advantage of falling interest rates and consolidate high-interest credit card debt into a low-"
+124,"The last email belongs to the class: phishing.
+
+This email is a classic example of a phishing attempt. It is an email that claims to be from a wealthy widow, Hajia Mariam Abacha, who is seeking help to transfer a large sum of money out of a foreign bank"
+125,legitimate
+126,legitimate
+127,"The last email is a phishing email. The email contains a lot of red flags that are common in phishing emails, such as:
+
+* Spelling and grammar mistakes (""viture"" instead of ""private"", ""foriegn"" instead of ""foreign"", ""ivestments"" instead of """
+128,legitimate
+129,"The last email belongs to the class of phishing.
+
+The email poses as a pharmacy bulletin and tries to trick the recipient into clicking on a link to buy drugs online. The email mentions that only a few online drugstores are reliable, and then promotes USDrugs as one of those"
+130,"The last email belongs to the class: phishing.
+
+The email contains several red flags that are common in phishing emails, such as:
+
+* A sense of urgency: ""Watch out the stock go crazy on Wednesday morning 19th of January""
+* Unsolicited investment advice:"
+131,"The last email belongs to the class: legitimate.
+
+The email contains a follow-up message from Vince to Patricia regarding their visit and discussion about the neural network site. The email includes various names, dates, and websites, which are typical in legitimate emails. There is no request for sensitive information or"
+132,"The classification of the provided email is more challenging than a typical phishing attempt, which often includes urgent requests, grammatical errors, or suspicious links. However, the email still lacks clarity and professionalism.
+
+Based on the information provided, it is difficult to definitively classify this email as either legitimate or"
+133,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate newsletter from CNN, containing a list of top stories and videos. There are no indications of phishing attempts, such as requests for sensitive personal information or suspicious links. The email includes a valid physical address and unsubscribe"
+134,legitimate
+135,"The last email is a phishing email. The email is an attempt to trick the recipient into providing their personal banking information by posing as a bank official offering a share of a large sum of money. The email contains several red flags associated with phishing scams, such as poor grammar and spelling, urgent requests"
+136,phishing
+137,phishing
+138,legitimate
+139,"phishing
+
+The email appears to be an attempt to direct the recipient to a suspicious news website, which is a common tactic used in phishing emails. The URL provided is missing the ""https://"" protocol identifier, and the website name ""newsisfree"" does not inspire confidence. Additionally, the email contains"
+140,The last email is a phishing email. It is an attempt to trick the recipient into providing their personal banking information by offering a share of a large sum of money. This is a common type of scam and is not a legitimate business partnership offer.
+141,legitimate
+142,"The last email is a phishing attempt. There are several red flags that indicate this, such as:
+
+1. The email claims that the recipient has won a large sum of money in a lottery they did not enter.
+2. The email asks the recipient to keep the award strictly confidential until the claim has"
+143,legitimate
+144,"The last email belongs to the phishing class. The email is unsolicited and asks for personal and financial information, which is a common tactic used in phishing emails. The email also contains spelling and grammar errors, and makes grand promises that should be a red flag. It's important to never share"
+145,"The last email belongs to the class: legitimate.
+
+The email appears to be a technical support conversation about configuring hardware, specifically a ""Handy Board"" and its infrared functionality. The content is specific and coherent, and there are no signs of urgency, threats, or requests for sensitive personal information"
+146,legitimate
+147,legitimate
+148,legitimate
+149,legitimate
+150,"The last email belongs to the class: legitimate.
+
+The email appears to be promoting ShareBuilder, a legitimate brokerage firm, and provides information about their services and fees. It also includes instructions on how to unsubscribe from their mailing list, which is a common practice for legitimate businesses. While the email does contain"
+151,legitimate
+152,"The email can be classified as legitimate. It appears to be related to a helpdesk or IT department, providing information about password expiration, new login settings, and desktop-related issues. While it contains a mix of capitalized and lowercase letters and lacks proper punctuation, these characteristics alone do not necessarily indicate"
+153,phishing
+154,"Based on the provided email, it appears to be a legitimate internal company communication. The email includes several individuals being cc'd, discusses work-related topics such as induction, reports, structuring research teams, and account information. There are no requests for sensitive personal information or suspicious links, which are common characteristics of"
+155,phishing
+156,phishing
+157,"The last email belongs to the phishing class.
+
+The email contains several red flags that are common in phishing emails. These include:
+
+1. Spoofed sender address: The email appears to be from ""usaa codewizardapprojectcom"" which is not a legitimate USAA domain."
+158,"The last email belongs to the class: legitimate.
+
+The email contains a payment confirmation from a company (Carrington Mortgage Services LLC) to a checking account. It also provides information on how to contact the financial institution or card issuer if the payment was not authorized. The email includes a privacy statement and"
+159,"The last email belongs to the phishing class.
+
+The email is designed to trick the recipient into providing their personal information by pretending to be from a legitimate company, in this case, eBay. The email contains several signs of phishing, such as:
+
+1. Urgent action required: The"
+160,"Phishing
+
+This email appears to be a phishing attempt for several reasons. It contains a message about winning a car and free money, which is a common tactic used by phishers to trick people into giving out their personal information or clicking on malicious links. The email also contains several misspellings"
+161,"The last email belongs to the class: legitimate.
+
+The email appears to be a discussion about a bug report for the Perl programming language. The sender is discussing the behavior of Perl's autovivification feature and its impact on object-oriented (OO) calls. The email includes code snipp"
+162,"Based on the information provided, the email appears to be legitimate. Here are a few reasons why:
+
+1. The email is addressed to specific individuals and includes their job titles and the business units they oversee.
+2. The request for organization charts is related to a review of Enron's operations by the"
+163,legitimate
+164,phishing
+165,"The last email belongs to the class: legitimate.
+
+The email appears to be a discussion about a feature of Google's code website, specifically about the obfuscation of non-gmail usernames. The email provides a clear explanation of the issue, and it includes a request for help in turning the obf"
+166,"The last email belongs to the phishing class. The email is soliciting assistance from the recipient to secure funds and transfer money, which is a common tactic used in phishing emails. The message contains numerous spelling and grammar errors, and it asks for personal information such as telephone and fax numbers,"
+167,"The last email belongs to the class: phishing.
+
+The email contains a suspicious message asking the recipient to provide their SAP ID and password, which is a common tactic used in phishing emails. It also contains a link to a suspicious website (http://ehronline.enron.com) which"
+168,legitimate
+169,phishing
+170,phishing
+171,phishing
+172,legitimate
+173,"The last email belongs to the class: legitimate.
+
+The email contains a weather forecast for a specific location (Waterloo, Ontario, Canada) and includes detailed information about temperature, weather conditions, UV index, and wind speed. It also provides long-term and short-term forecasts, as well as a"
+174,"The last email belongs to the class: phishing.
+
+The email is a classic example of a phishing scam. It tries to trick the recipient into providing their personal information, such as full name, phone numbers, and email address, by pretending to be a person in need who promises to share a large"
+175,legitimate
+176,"The last email belongs to the phishing class.
+
+The email contains several red flags that are common in phishing emails. These include:
+
+1. Spelling and grammar mistakes: The email contains several spelling and grammar mistakes, such as ""last reviewing paypal account"" and ""apolog"
+177,"The last email belongs to the class: phishing.
+
+The email is a phishing message that tries to trick the recipient into investing in a penny stock by making false claims about the company's prospects and potential acquisition targets. The email contains numerous spelling and grammar errors, and uses urgent and sens"
+178,"Based on the provided email, it appears to be a legitimate internal company email discussing a personnel request. The email includes a discussion about two individuals, Gregg Penman and Richard Tomaksi, and the recommendation to place them under contract at Mid Year PRC. The email provides detailed reasons for the recommendation, including their"
+179,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate investment alert about a company named Vocalscape Inc (VCSC). It contains information about a license agreement and partnership with Netfone Services Inc, as well as speculative target prices and forward-looking statements. While it does"
+180,"Based on the information provided, the last email can be classified as legitimate. The email appears to be a delivery status notification, and it includes a message about a successfully relayed message regarding a draft Assignment and Assumption Agreement. The email includes a formal signature and contact information for the sender, which are typical characteristics of"
+181,legitimate
+182,"The last email belongs to the class of phishing. The email is an advance-fee scam, where the sender offers a large sum of money in exchange for a smaller upfront payment. The email appears to come from the widow of a former Nigerian head of state, but it is an attempt to trick the"
+183,"The last email belongs to the class: phishing.
+
+The email is trying to trick the recipient into thinking they have signed up for a free membership to adult websites, when in reality the email is attempting to phish for personal information and potentially install malware through the links provided. The email also claims that the recipient"
+184,"The last email belongs to the class: phishing.
+
+The email is trying to trick the recipient into clicking a link and providing personal information, claiming that it is necessary for account verification. However, this is a common tactic used in phishing emails to steal personal information. The email contains several red flags,"
+185,"The last email belongs to the class 'legitimate'.
+
+The email appears to be a marketing communication from Crabtree Evelyn, promoting their La Source spa treatments with a special offer of 20% off. The email contains a clear and specific offer, a promo code to use at check"
+186,"The last email belongs to the class of phishing. The email contains a link to a suspicious website (http: boards fool com) and asks the recipient to provide their password, which are common tactics used in phishing emails. Additionally, the email contains spelling and grammar errors, and the sender's email"
+187,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit the recipient's personal and financial information by posing as a member of a prominent Nigerian family. The email contains several red flags associated with phishing attempts, such as poor grammar and spelling, urgent requests"
+188,"The last email belongs to the class: legitimate.
+
+The email appears to be a notification from TechRepublic about a ""user administration tool kit"" and includes various resources and guides for network administrators. There are no requests for sensitive personal information or suspicious links, which are common indicators of phishing emails. The"
+189,"legitimate
+
+The email is a newsletter from The Globe and Mail, a well-known Canadian news organization. It contains various news headlines and articles related to business, sports, and technology. There are no requests for personal information, suspicious links, or urgent actions, which are common characteristics of phishing emails."
+190,legitimate
+191,legitimate
+192,"The last email belongs to the class of phishing.
+
+The email contains several red flags that are commonly found in phishing emails. These include:
+
+1. Unsolicited job offer: The email promises a high-paying job with flexible hours and great benefits, but the recipient did not apply for"
+193,"The last email belongs to the class: legitimate.
+
+The email is a continuation of a technical discussion between individuals regarding the configuration settings for an SMTP server's TLS security level. The tone of the email is professional and informative, and there is no attempt to solicit sensitive information or deceive the"
+194,"The last email belongs to the class 'legitimate'.
+
+The email appears to be a notification about an update to the gas fundamentals website, which is a common type of internal communication in a corporate setting. The email provides detailed instructions on how to handle the new security measure added to the website, and it"
+195,"The last email belongs to the class: legitimate.
+
+The email appears to be a news alert from CNN, containing information about a meeting between George W. Bush and Vladimir Putin. There are no requests for sensitive personal information or suspicious links, which are common characteristics of phishing emails. The email also provides"
+196,legitimate
+197,"The last email belongs to the phishing class. The email is trying to trick the recipient into believing that they are a reputable attorney who has come into possession of a large sum of money from a deceased client. The email asks the recipient to provide their personal information and cooperate in the transfer of the funds, which"
+198,"The last email belongs to the class: phishing.
+
+The email contains several red flags that are common in phishing emails. These include:
+
+1. Spelling and grammar mistakes: The email contains several spelling and grammar mistakes, such as ""customeryou"" instead of ""customer you"
+199,"The last email belongs to the class: phishing.
+
+The email contains several red flags that are common in phishing emails. These include:
+
+1. Requests for personal information or account confirmation: The email mentions confirming your account, which is a common tactic used by phishers to trick"
+200,phishing
+201,legitimate
+202,"The last email belongs to the class: phishing.
+
+The email is an attempt to fraudulently obtain sensitive information or money from the recipient by posing as a legitimate organization, in this case, Barclays Bank Ghana. The email contains numerous red flags associated with phishing attempts, such as poor"
+203,"The last email is a phishing email. The email is an attempt to trick the recipient into providing their personal information, which can then be used for fraudulent activities. The email contains several red flags associated with phishing emails, such as the sender impersonating a high-ranking official from a reputable bank"
+204,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate investment report about a company named Yukon Gold Corporation Inc. It contains detailed information about the company's recent acquisition of a mineral deposit, including resource estimates, exploration potential, and plans for production. The email also includes"
+205,"The last email belongs to the class of phishing.
+
+The email is an attempt to solicit the recipient's personal and financial information by posing as a high-ranking official from a foreign government. The email contains several red flags associated with phishing attempts, such as the urgent request for assistance,"
+206,legitimate
+207,legitimate
+208,"The last email belongs to the class: legitimate.
+
+The email does not contain any urgent requests for personal information or links to suspicious websites, which are common characteristics of phishing emails. Instead, it contains a discussion about the design of the Perl 6 programming language, suggesting improvements and expressing opinions, which are"
+209,legitimate
+210,"The last email is a phishing email. The message contains a lot of red flags that are common in phishing emails, such as:
+
+1. Spelling and grammar mistakes: The email contains several spelling and grammar mistakes, such as ""drwilliams"" instead of ""dr. Williams,"""
+211,legitimate
+212,"The last email belongs to the class: legitimate.
+
+The email contains detailed information about a merger idea between Hanover and GKH, with a thorough analysis of the potential benefits, costs, and risks of the merger. The language used is professional and there are no urgent requests for confidential information or money,"
+213,phishing
+214,"legitimate
+
+This email appears to be part of a business discussion about California energy policy and surcharges, with no indications of phishing or fraudulent intent."
+215,"The last email belongs to the class of phishing.
+
+The email exhibits several characteristics that are commonly found in phishing emails. These include:
+
+1. The email is from an unknown sender, ""miss binta wahid wahidmywaycom"", and contains a generic greeting, """
+216,phishing
+217,"The last email belongs to the class: legitimate.
+
+The email appears to be promoting a technical analysis class offered by Kase and Company, with details about the course content, presenters, registration fees, and location. There are no requests for sensitive personal information or suspicious links, which are common characteristics of phishing emails"
+218,"legitimate
+
+The email is a newsletter from CNET Security Center, containing information about spam and security threats. It does not contain any requests for personal information or suspicious links, so it can be classified as legitimate."
+219,"The last email belongs to the class: phishing.
+
+The email is an example of an advance-fee scam, also known as a 419 scam, which is a type of phishing attack. The email claims to offer the recipient a share of a large sum of money in exchange for their"
+220,phishing
+221,"The last email belongs to the class: phishing.
+
+The email is an attempt to trick the recipient into providing personal information by posing as a legitimate lottery organization. There are several red flags that indicate this is a phishing email, such as:
+
+1. The email claims that the recipient has won"
+222,"The last email is likely to be classified as phishing. There are several indicators that suggest this, including:
+
+1. The email contains a lot of spelling and grammar mistakes, which is a common tactic used by phishers to evade spam filters.
+2. The email asks for"
+223,"The email is most likely a phishing attempt. Here are some reasons why:
+
+1. The email contains a job offer, but it is not addressed to a specific person, and there is no mention of the company that is supposedly offering the job.
+2. The email asks the recipient to receive money trans"
+224,"The last email belongs to the phishing class. The email is an attempt to trick the recipient into providing personal information, which can be used for fraudulent activities. The email contains several red flags associated with phishing attempts, such as poor grammar and spelling, urgent requests, and promises of large sums of money"
+225,"The last email belongs to the class: legitimate.
+
+The email appears to be an investor alert about a company called Lauraan Corporation, providing information about its business, recent acquisitions, and partnerships. It includes detailed information about the company's financials, management, and future plans, and it is written"
+226,"The last email belongs to the class: legitimate.
+
+The email appears to be an automated message from a movie rental service, providing an update on the status of a returned DVD. While it is not a phishing email, it is worth noting that the email could potentially be improved by including clear branding and a more"
+227,legitimate
+228,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate notification from a company called Homeland Security Technology Inc. (HSTJ) about a 30 share dividend to shareholders of record at the market close on September 30th, 2004"
+229,"The last email belongs to the class: legitimate.
+
+The email appears to be a notification regarding shift trading for the University of Richmond, providing a specific shift trading password and instructions on how to swap shifts with local institutions. The content is related to a specific system or process within an organization, and it does not contain any"
+230,phishing
+231,legitimate
+232,"The last email is more likely to be legitimate. It appears to be a plain text version of an article from the Wall Street Journal about a new trade agreement between Congress and the White House that would ease some patent rules and allow for more sales of generic drugs in developing countries. The article includes quotes from various people and organizations,"
+233,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit sensitive personal and financial information from the recipient by posing as a legitimate entity (in this case, a senior auditing officer from Absa Bank in South Africa). The email contains numerous red flags associated with phishing"
+234,legitimate
+235,"The last email belongs to the class 'legitimate'.
+
+The email appears to be a technical support request or a discussion about configuring a postfix mail server. It contains detailed information about the error messages and the steps taken to troubleshoot the issue. The language used is professional and technical, and there are"
+236,"The last email is a phishing email. The sender, who claims to be a director from the Federal Ministry of Health and Social Services in Senegal, is trying to solicit the recipient's assistance to transfer 25.5 million US dollars from alleged overinflated contracts into the recipient's account"
+237,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate message discussing the formation of an Operational Risk Committee at Enron. It includes a list of recipients, a clear subject line, and detailed information about the committee's objectives and responsibilities. There are no indications"
+238,phishing
+239,"The last email belongs to the class: legitimate.
+
+The email appears to be a discussion about a feature of Google's code website, specifically about the obfuscation of non-gmail usernames. The email provides a clear explanation of the issue, and it includes a request for help in turning the obf"
+240,"The last email belongs to the class: legitimate.
+
+The email appears to be a marketing message from Travelocity, offering a free companion ticket on Qantas Airways and various other travel benefits for joining their Preferred Traveler Program. While it is always important to be cautious with unsolicited emails,"
+241,legitimate
+242,legitimate
+243,legitimate
+244,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit the recipient's help in transferring a large sum of money from a Nigerian bank account, with the promise of a share of the funds in return. This is a classic example of a type of phishing sc"
+245,"The last email is a phishing email. Phishing emails are messages that attempt to trick the recipient into providing sensitive information, such as passwords or financial details, by posing as a trustworthy source. In this case, the email is pretending to be a legitimate business proposition from a Nigerian oil company, but"
+246,Phishing
+247,phishing
+248,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate notification about a company acquisition and plans for expansion, rather than a phishing attempt. It contains detailed information about the acquisition, company plans, and risk factors, which is typical of legitimate business communications. However, it is always important"
+249,"The last email belongs to the class: legitimate.
+
+The email contains a summary of book recommendations and other resources related to a query about phonetics texts for a 10-week undergraduate course. The content is relevant, informative, and not asking for any sensitive information or trying to sell a product,"
+250,phishing
+251,"The last email is likely to be classified as phishing. Here are a few reasons why:
+
+1. The email contains a lot of spelling and grammar mistakes, which is a common characteristic of phishing emails.
+2. The email asks the recipient to accept payments into their personal bank account and then transfer"
+252,legitimate
+253,legitimate
+254,"The last email belongs to the class of phishing.
+
+The email contains several red flags that are commonly found in phishing emails. These include:
+
+1. Unsolicited contact: The email was not solicited and was sent to a random recipient.
+2. Spelling and grammar mistakes"
+255,"The last email belongs to the class: legitimate.
+
+The email appears to be an invitation to a career development seminar at the Haas career center. It includes details about the event, such as the date, time, location, and registration process. There are no requests for sensitive personal information or urgent actions,"
+256,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate monthly briefing from Cambridge Energy Research Associates (CERA) regarding Mexico's power markets and the impact of the country's slowing economy on power generation growth. The email contains a title, a brief summary"
+257,"The last email belongs to the class: legitimate.
+
+The email appears to be a marketing communication from a company called ""TheWirelessCatalog"" informing the recipient of a special sale in their outlet store. The email contains a promotion code for the recipient to receive a discount, as well as a source"
+258,"The last email belongs to the class: phishing.
+
+This email is a classic example of a type of phishing scam known as an ""advance-fee scam"" or ""419 scam"". The email claims to be from the widow of a wealthy Zimbabwean farmer"
+259,phishing
+260,phishing
+261,"The last email belongs to the class: legitimate.
+
+The email appears to be a commit message from a version control system, specifically from a git repository based on the format and content of the message. It contains information about the revision, committers, parents, and a detailed log message about the changes made in the"
+262,legitimate
+263,legitimate
+264,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit the recipient's personal and financial information by posing as a bank auditor who needs their help in transferring a large sum of money from a dormant account. The email contains numerous red flags associated with phishing"
+265,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate political news update from CNN, containing multiple stories about current political events and issues. There are no indications of any malicious intent or phishing attempts in the email."
+266,legitimate
+267,"The last email belongs to the class: legitimate.
+
+The email appears to be a technical support request, with the user describing an issue they are experiencing with a specific graphics card and software setup. The email contains detailed information about the problem, as well as steps the user has taken to try and resolve it. The tone"
+268,phishing
+269,legitimate
+270,"The last email belongs to the class: legitimate.
+
+The email appears to be a sales or marketing offer for a merchant account and e-commerce services. It contains a detailed description of the services offered, such as a free shopping cart, website design, hosting, and domain name registration. The email also includes a"
+271,"The last email belongs to the class: phishing.
+
+The email is a classic example of an advance-fee scam, also known as a 419 scam, which is a type of phishing attack. The email claims to offer the recipient a share of a large sum of money in exchange for"
+272,"The last email belongs to the class: phishing.
+
+The email is trying to trick the recipient into providing personal information by claiming that there is an incoming payment on hold that requires verification. The email contains several red flags associated with phishing attempts, such as poor grammar and spelling, a sense of urgency"
+273,legitimate
+274,"The last email belongs to the phishing class. The email contains several indicators of phishing, such as requests to change email preferences, click links to remove email addresses, and a sense of urgency (""you've forgotten password""). Additionally, the email contains multiple references to different websites (e.g., """
+275,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate investment research report about Bio Matrix Scientific Group Inc., a company focused on stem cell research and the commercialization of stem cell technologies. The report discusses the company's business model, market opportunities, and investment potential. While"
+276,"The last email belongs to the class: phishing.
+
+The email is trying to trick the recipient into believing that they are the heir to a large sum of money from a deceased foreign customer of Merit Bank in Swindon, United Kingdom. The email asks the recipient to provide their personal information, including"
+277,"Based on the provided email, it appears to be a legitimate email. Here are some reasons why:
+
+1. The email contains a message from one Enron employee (Vince) to another (Donna) regarding guest access to the Enrononline system.
+2. The email includes a specific subject line"
+278,"The last email belongs to the class 'legitimate'.
+
+The email appears to be a confirmation of an Adobe membership, containing details about the membership benefits and how to manage the account. The email contains multiple links to Adobe's official website, and the email signature includes Adobe's physical address and"
+279,"phishing
+
+The email content is inappropriate and seems to be an attempt to lure the recipient into clicking a suspicious link, which is a common tactic used in phishing emails. The use of uppercase letters and the lack of professional language also suggest that this email is not legitimate."
+280,legitimate
+281,"The last email belongs to the phishing class. The email is designed to trick the recipient into providing sensitive information, such as their Social Security number and password, by claiming that their account will be suspended unless they verify their billing information. The link provided in the email likely leads to a malicious website designed to steal this"
+282,"The last email is a legitimate email.
+
+It appears to be a marketing email from OfficeDepot.com, offering a discount to the recipient for their next order. The email contains details of the offer, including the discount amount, the minimum order value required to qualify for the discount, and the expiration date"
+283,"The last email belongs to the class: legitimate.
+
+The email appears to be a regular weather forecast from AccuWeather, containing no requests for sensitive personal information or suspicious links, which are common characteristics of phishing emails."
+284,"The last email belongs to the class: phishing.
+
+The email is an attempt to solicit sensitive personal and financial information from the recipient by posing as a legitimate organization (a bank) and offering a share of a large sum of money. This is a classic phishing tactic. The recipient is asked to"
+285,phishing
+286,legitimate
+287,legitimate
+288,"The last email belongs to the class: legitimate.
+
+The email appears to be a press release from a company called Energy Telecom Inc (EYTL) announcing their plans to market their patented eyewear technology. It contains detailed information about the company, their technology, and their plans for the future. There"
+289,phishing
+290,legitimate
+291,"The last email belongs to the class: legitimate.
+
+The email appears to be an invitation from Emery Financial Group, a part of First Union Securities, for a conference call with their Chief Equity Strategist Doug Sandler. The email provides detailed information about Mr. Sandler's background and the topics"
+292,legitimate
+293,"Based on the provided email content, it appears to be related to a call for papers for the ""2007 IEEE International Conference on Systems, Man, and Cybernetics."" There are no indications of any illegitimate or malicious intent in the email. Therefore, I would classify this"
+294,"The last email belongs to the class: legitimate.
+
+The email appears to be a notification regarding shift trading for the University of Richmond, providing a specific shift trading password and instructions on how to swap shifts with local institutions. The content is related to a specific system or process within an organization, and it does not contain any"
+295,legitimate
+296,"The last email belongs to the class of phishing. The email is an attempt to trick the recipient into believing that they have been contacted by a person in need of help to transfer a large sum of money. The email asks the recipient to provide their personal banking information, which would then be used for fraudulent activities. The"
+297,"The last email belongs to the class of phishing. This is a classic example of an advance fee scam, where the sender tries to trick the recipient into providing their personal banking information by offering a share of a large sum of money. The sender uses a false identity and a sense of urgency to create a compelling story"
+298,"The last email belongs to the class: legitimate.
+
+The email contains information about a conference call and web presentation related to the impact of the heavy crude pipeline in Ecuador, hosted by Premiere Conferencing and presented by Dr. Rene Ortiz, Lisa Pearl, and Alberto Bullrich. It also"
+299,"The last email belongs to the class: phishing.
+
+The email is trying to lure the recipient into clicking on links to a casino website, which could potentially be malicious or fraudulent. The email also includes a removal link, which is a common tactic used in phishing emails to make the email appear"
+300,phishing
+301,legitimate
+302,"legitimate
+
+The email is a newsletter from CNET Security Center, containing information about spam and security threats. It does not contain any requests for personal information or suspicious links, so it can be classified as legitimate."
+303,phishing
+304,"The last email belongs to the class phishing.
+
+The email is trying to trick the recipient into clicking a link to buy medication from a website that claims to sell only genuine drugs. However, the link in the email is masked and may lead to a malicious site. The email is not from a legitimate pharm"
+305,"The last email belongs to the class: legitimate.
+
+The email appears to be a legitimate newsletter from CNN, containing a list of top stories and videos. There are no indications of phishing attempts, such as requests for sensitive personal information or suspicious links. The email includes a valid physical address and unsubscribe"
+306,"The last email belongs to the class: legitimate.
+
+The email contains information about a preapproval process for refinancing a home at a lower rate, which is a legitimate financial transaction. The email also provides a link to visit for more information or to have a broker contact the recipient. While it is important to"
