@@ -1,0 +1,3 @@
+Tasa de falsos positivos: 0.0
+Exactitud: 1.0
+Recuperación: 1.0
