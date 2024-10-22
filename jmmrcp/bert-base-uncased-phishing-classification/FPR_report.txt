@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Tasa de falsos positivos: 0.06028368794326241
-Exactitud: 0.957286432160804
-Recuperación: 0.7355212355212355
-=======
-Tasa de falsos positivos: 0.0
-Exactitud: 1.0
-Recuperación: 1.0
->>>>>>> 9b6bdbbddfc35a4498499d6b22f1eed9db72a24a
+Tasa de falsos positivos: 0.502127659574468
+Exactitud: 0.10152284263959391
+Recuperación: 0.42105263157894735
