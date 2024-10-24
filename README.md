@@ -1,6 +1,6 @@
 # TFM
 Trabajo final de máster.
-# Detección de Phishing con Modelos de Lenguaje Grande (LLM)
+# Detección de Phishing con Grandes modelos de lenguaje (LLM)
 
 Este repositorio contiene los resultados de una investigación sobre la utilización de LLM para la detección de ataques de phishing.
 
