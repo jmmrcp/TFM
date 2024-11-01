@@ -1,3 +1,3 @@
-Tasa de falsos positivos: 0.11576354679802955
-Exactitud: 0.8864734299516909
-Recuperación: 0.9314720812182741
+Tasa de falsos positivos: 0.04
+Exactitud: 0.9607843137254902
+Recuperación: 0.98
